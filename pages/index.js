@@ -9,7 +9,7 @@ class Index extends React.Component {
   render(){
     return (
       <Page>
-      	<div>
+      	<div className="hello">
           hello
         </div>
       </Page>

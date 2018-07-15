@@ -5,6 +5,8 @@ import Nav from '../components/navbar'
 import Footer from '../components/footer'
 import Head from '../components/head'
 
+import '../css/style.css'
+
 
 class Layout extends React.Component {
 
